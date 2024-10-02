@@ -1,5 +1,150 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 8,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Oh, but it is dirty!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Elizabeth Bishop"
+        }
+      ],
+      "uuid": "a1ea4bae-af60-493d-979d-7e0f84166e9e"
+    },
+    {
+      "start_time": 8,
+      "end_time": 14,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "to a disturbing, over-all"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Elizabeth Bishop"
+        }
+      ],
+      "uuid": "4dc833ff-500c-44f3-90a3-e7c804ecea61"
+    },
+    {
+      "start_time": 78,
+      "end_time": 83,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Somebody waters the plant,"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience laughter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Elizabeth Bishop"
+        }
+      ],
+      "uuid": "68a3f078-5a5f-4f5b-8857-981df3df7b2f"
+    },
+    {
+      "start_time": 85,
+      "end_time": 92,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "so that they softly say:"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Bishop laughter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Elizabeth Bishop"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience laughter"
+        }
+      ],
+      "uuid": "013b7300-30b1-4a46-ba62-02e926f3ce90"
+    }
+  ],
   "set": "Default",
   "event_id": "02fbbf2d-126b-432d-be4b-64a804fe4392",
   "source_id": "b43a2bb8-da1e-4263-9420-bce8fedd244d"
