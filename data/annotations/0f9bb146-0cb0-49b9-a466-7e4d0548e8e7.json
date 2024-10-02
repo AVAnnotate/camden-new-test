@@ -1,39 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 8,
-      "end_time": 14,
-      "annotation": [
-        {
-          "0": {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": ""
-              }
-            ]
-          },
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "to a disturbing, over-all"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Elizabeth Bishop"
-        }
-      ],
-      "uuid": "4dc833ff-500c-44f3-90a3-e7c804ecea61"
-    },
-    {
       "start_time": 78,
       "end_time": 83,
       "annotation": [
