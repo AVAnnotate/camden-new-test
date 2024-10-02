@@ -1,9 +1,26 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "table-of-contents",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2024-10-02T20:10:51.455Z",
   "created_by": "camdendotlol",
   "title": "Camden's New Dev Project",
-  "updated_at": "2024-10-02T20:21:21.554Z",
+  "updated_at": "2024-10-02T20:21:31.463Z",
   "updated_by": "camdendotlol",
   "autogenerate": {
     "enabled": false,
