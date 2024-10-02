@@ -143,6 +143,150 @@
         }
       ],
       "uuid": "c931f3f6-cc5b-4130-85a7-ea3978acce8f"
+    },
+    {
+      "start_time": 2,
+      "end_time": 8,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Oh, but it is dirty!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elizabeth Bishop",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "524c9a3d-72e2-45f9-ae2a-d9f3ace6cce4"
+    },
+    {
+      "start_time": 8,
+      "end_time": 14,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "to a disturbing, over-all"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Elizabeth Bishop",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8fa54efa-b2d9-4155-91bc-11ad78669928"
+    },
+    {
+      "start_time": 78,
+      "end_time": 83,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Somebody waters the plant,"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Audience laughter",
+          "category": "Reactions"
+        },
+        {
+          "tag": "Elizabeth Bishop",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "035bf611-891e-4137-9de8-4c4eb90adf7d"
+    },
+    {
+      "start_time": 85,
+      "end_time": 92,
+      "annotation": [
+        {
+          "0": {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": ""
+              }
+            ]
+          },
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "so that they softly say:"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bishop laughter",
+          "category": "Reactions"
+        },
+        {
+          "tag": "Elizabeth Bishop",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Audience laughter",
+          "category": "Reactions"
+        }
+      ],
+      "uuid": "8f0a1d9b-8de3-4851-866e-7cd9cc145b7d"
     }
   ],
   "set": "Default",
