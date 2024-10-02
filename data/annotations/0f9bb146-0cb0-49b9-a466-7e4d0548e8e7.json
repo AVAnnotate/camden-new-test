@@ -1,43 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 78,
-      "end_time": 83,
-      "annotation": [
-        {
-          "0": {
-            "type": "paragraph",
-            "children": [
-              {
-                "text": ""
-              }
-            ]
-          },
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Somebody waters the plant,"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Audience laughter"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Elizabeth Bishop"
-        }
-      ],
-      "uuid": "68a3f078-5a5f-4f5b-8857-981df3df7b2f"
-    },
-    {
       "start_time": 85,
       "end_time": 92,
       "annotation": [
