@@ -37,6 +37,23 @@
         }
       ],
       "uuid": "8b90ead8-5e75-40aa-abaf-1c043399c565"
+    },
+    {
+      "start_time": 71,
+      "end_time": 4271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "i'm code",
+              "code": true
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "28609c27-2759-4808-b715-a20ac63f0d65"
     }
   ],
   "event_id": "a5951f43-5188-4533-8eeb-5a5d9d6e1d8b",
