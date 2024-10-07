@@ -1,0 +1,22 @@
+{
+  "audiovisual_files": {
+    "1e0620eb-6248-4755-a843-a20e833c9fc9": {
+      "label": "S1576, T86-244",
+      "is_offline": false,
+      "file_url": "https://ia601304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-244.mp3",
+      "duration": 3400
+    }
+  },
+  "auto_generate_web_page": true,
+  "item_type": "Audio",
+  "label": "S1576, T86-244",
+  "description": [
+    {
+      "text": "This recording is available on the Florida Memory Project."
+    }
+  ],
+  "created_at": "2024-10-07T19:26:10.255Z",
+  "created_by": "camdendotlol",
+  "updated_at": "2024-10-07T19:26:10.256Z",
+  "updated_by": "camdendotlol"
+}
