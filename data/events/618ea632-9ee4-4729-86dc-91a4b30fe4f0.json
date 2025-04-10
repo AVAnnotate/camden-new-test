@@ -1,0 +1,43 @@
+{
+  "audiovisual_files": {
+    "27df676a-b35e-4154-92e2-e1aed504f4ef": {
+      "label": "S1576, T86-243",
+      "is_offline": false,
+      "file_url": "https://ia801304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-243.mp3",
+      "duration": 3530,
+      "caption_set": []
+    },
+    "11edb834-6d96-405e-9eb0-3246cda60b43": {
+      "label": "S1576, T86-244",
+      "is_offline": false,
+      "file_url": "https://ia801304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-244.mp3",
+      "duration": 3400,
+      "caption_set": []
+    },
+    "0b388425-61a6-406f-a9f4-4fdddee52840": {
+      "label": "S1576, T86-245",
+      "is_offline": false,
+      "file_url": "https://ia801304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-245.mp3",
+      "duration": 3494,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "All the Recordings",
+  "created_at": "2025-04-10T19:03:07.155Z",
+  "created_by": "camdendotlol",
+  "updated_at": "2025-04-10T19:03:07.155Z",
+  "updated_by": "camdendotlol"
+}
