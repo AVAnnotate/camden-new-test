@@ -12,14 +12,24 @@
       "is_offline": false,
       "file_url": "https://ia801304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-244.mp3",
       "duration": 3400,
-      "caption_set": []
+      "caption_set": [],
+      "file_type": "Audio"
     },
     "0b388425-61a6-406f-a9f4-4fdddee52840": {
       "label": "S1576, T86-245",
       "is_offline": false,
       "file_url": "https://ia801304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-245.mp3",
       "duration": 3494,
-      "caption_set": []
+      "caption_set": [],
+      "file_type": "Audio"
+    },
+    "0ec2a7b8-7763-45e3-87f1-b528dba453bc": {
+      "label": "Battle of the Browsers",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/CC1536BROWSERS/CC1536BROWSERS_512kb.mp4",
+      "duration": 1695,
+      "caption_set": [],
+      "file_type": "Video"
     }
   },
   "auto_generate_web_page": true,
@@ -38,6 +48,6 @@
   "label": "All the Recordings",
   "created_at": "2025-04-10T19:03:07.155Z",
   "created_by": "camdendotlol",
-  "updated_at": "2025-04-10T19:03:07.155Z",
+  "updated_at": "2025-04-17T15:01:48.442Z",
   "updated_by": "camdendotlol"
 }
