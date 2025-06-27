@@ -1,0 +1,43 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "12a7afed-75a2-428b-bc60-40597bee79cb",
+      "includes": [
+        "media",
+        "annotations"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "test page",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "test-page",
+  "created_at": "2025-06-27T15:26:04.894Z",
+  "created_by": "camdendotlol",
+  "updated_at": "2025-06-27T15:26:04.895Z",
+  "updated_by": "camdendotlol"
+}
